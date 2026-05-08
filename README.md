@@ -5,6 +5,8 @@
 Bob is too laid back to run. He only jumps when absolutely necessary.
 Your job is to hit `space` just in time so he avoids the next hurdle.
 
+But you see, Bob is a philosopher too. Do not forget to read his takes on life ( known as Bob-isms) as he lazilty jumps through the hurdles of life !
+
 Everything is intentionally bare-bones:
 
 - terminal only
